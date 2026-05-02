@@ -24,7 +24,7 @@ Phone: ${phone}
 Date: ${date}
 Guests: ${guests}`;
 
-    const whatsappURL = `https://wa.me/919158043889?text=${encodeURIComponent(message)}`;
+    const whatsappURL = `https://wa.me/918806387906?text=${encodeURIComponent(message)}`;
     window.open(whatsappURL, "_blank");
   };
 

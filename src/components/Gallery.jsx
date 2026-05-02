@@ -1,9 +1,9 @@
 import React, { useState , useRef } from "react";
 import "./Gallery.css";
-import g1 from  "./image/image.jpg";
-import g2 from  "./image/room2.jpg";
-import g3 from  "./image/room3.jpg";
-import g4 from  "./image/room1.jpg";
+import g1 from  "../assets/image.jpg";
+import g2 from  "../assets/room1.jpg";
+import g3 from  "../assets/room2.jpg";
+import g4 from  "../assets/room3.jpg";
 
 
 const images =[

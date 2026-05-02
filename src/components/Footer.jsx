@@ -27,7 +27,7 @@ const Footer = () => {
 
           <div className="footer-icons">
             <a 
-              href="https://wa.me/919158043889" 
+              href="https://wa.me/918806387906" 
               target="_blank" 
               rel="noreferrer"
               className="whatsapp"
@@ -35,7 +35,7 @@ const Footer = () => {
               <FaWhatsapp />
             </a>
 
-            <a href="tel:9158043889" className="call">
+            <a href="tel:8806387906" className="call">
               <FaPhoneAlt />
             </a>
           </div>

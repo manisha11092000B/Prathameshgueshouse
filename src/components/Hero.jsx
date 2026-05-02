@@ -1,9 +1,9 @@
 import "./Hero.css";
 import { useEffect, useState } from "react";
 
-import img1 from "./image/123.jpg";
-import img2 from "./image/112.jpg";
-import img3 from "./image/sunset.jpg";
+import img1 from "../assets/123.jpg";
+import img2 from "../assets/112.jpg";
+import img3 from "../assets/sunset.jpg";
 
 export default function Hero() {
   const images = [img1, img2, img3];
