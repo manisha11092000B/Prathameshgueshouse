@@ -24,6 +24,7 @@ const Footer = () => {
           <p>
             <FaMapMarkerAlt /> CWW4+P3P, Beach Road, Kashid, Maharashtra
           </p>
+          <p> Mob : 8806387906</p>
 
           <div className="footer-icons">
             <a 
