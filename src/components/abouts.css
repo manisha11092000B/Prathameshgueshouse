@@ -80,7 +80,7 @@
   color: #555;
 }
 
-..about-content h2::after {
+.about-content h2::after {
   content: "";
   display: block;
   width: 60px;
